@@ -1,0 +1,4 @@
+*stranska_skala_1_DiffuseMap.png filter=lfs diff=lfs merge=lfs -text
+*stranska_skala_1_NormalsMap.png filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
